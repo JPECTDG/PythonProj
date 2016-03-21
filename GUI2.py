@@ -11,7 +11,7 @@ class App:
 	    self.hi_there.pack(side=LEFT)
 		
     def say_hi(self):
-        print 'hi there,everyone!'
+        print 'hi there,everyone!, This is the test only'
 	
 root = Tk()
 app = App(root)
